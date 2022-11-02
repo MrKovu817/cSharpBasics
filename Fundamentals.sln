@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "03-Operators\O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "04-Strings\Strings.csproj", "{5FF610FC-B508-4363-9519-D093F491493C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "05-Booleans\Booleans.csproj", "{AC2D6465-488D-4657-9D27-9ED80F5A09EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{5FF610FC-B508-4363-9519-D093F491493C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF610FC-B508-4363-9519-D093F491493C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF610FC-B508-4363-9519-D093F491493C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2D6465-488D-4657-9D27-9ED80F5A09EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2D6465-488D-4657-9D27-9ED80F5A09EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2D6465-488D-4657-9D27-9ED80F5A09EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2D6465-488D-4657-9D27-9ED80F5A09EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
