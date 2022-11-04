@@ -1,4 +1,6 @@
-﻿// 1   // 2     // 3   // 4
+﻿using System;
+
+// 1   // 2     // 3   // 4
 string firstName = "Scott";
 Console.WriteLine(firstName);
 
